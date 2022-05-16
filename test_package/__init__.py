@@ -1,0 +1,1 @@
+from brand_associations.concepts import fibonacci
