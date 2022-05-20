@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name = "Suvis_package",
+    name = "brand_net",
     version = "0.0.1",
     author = "Suvi Väisänen",
     author_email = "suvi.s.vaisanen@gmail.com",
