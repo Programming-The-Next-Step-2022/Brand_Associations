@@ -38,6 +38,7 @@ def find_concepts():
     print('Finding concepts...this may take a moment')
     words = model.most_similar(positive=[brand], topn=n)
     print(words)
+    
 
 
 def draw_net(words, brand):
